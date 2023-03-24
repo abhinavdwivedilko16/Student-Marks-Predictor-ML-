@@ -1,0 +1,110 @@
+{
+  "build": "py38haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\abhin\\anaconda3\\pkgs\\entrypoints-0.4-py38haa95532_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/__pycache__/entrypoints.cpython-38.pyc",
+    "Lib/site-packages/entrypoints-0.4.dist-info/INSTALLER",
+    "Lib/site-packages/entrypoints-0.4.dist-info/LICENSE",
+    "Lib/site-packages/entrypoints-0.4.dist-info/METADATA",
+    "Lib/site-packages/entrypoints-0.4.dist-info/RECORD",
+    "Lib/site-packages/entrypoints-0.4.dist-info/REQUESTED",
+    "Lib/site-packages/entrypoints-0.4.dist-info/WHEEL",
+    "Lib/site-packages/entrypoints-0.4.dist-info/direct_url.json",
+    "Lib/site-packages/entrypoints.py",
+    ".nonadmin"
+  ],
+  "fn": "entrypoints-0.4-py38haa95532_0.conda",
+  "legacy_bz2_md5": "0ea2c3493ad24b83dfb5919aa6af58e8",
+  "license": "MIT License",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\abhin\\anaconda3\\pkgs\\entrypoints-0.4-py38haa95532_0",
+    "type": 1
+  },
+  "md5": "98aea72a060f76c708e2f8f21e48e3ca",
+  "name": "entrypoints",
+  "package_tarball_full_path": "C:\\Users\\abhin\\anaconda3\\pkgs\\entrypoints-0.4-py38haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/__pycache__/entrypoints.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "b18921bf58a53070173ee86b1cc4747579a442935e0727d813bdff28bcd1c56e",
+        "sha256_in_prefix": "b18921bf58a53070173ee86b1cc4747579a442935e0727d813bdff28bcd1c56e",
+        "size_in_bytes": 7403
+      },
+      {
+        "_path": "Lib/site-packages/entrypoints-0.4.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/entrypoints-0.4.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "de5fcd7349cdf399b0707a2a024833c4704743650133c72d6f0ff7561a03a848",
+        "sha256_in_prefix": "de5fcd7349cdf399b0707a2a024833c4704743650133c72d6f0ff7561a03a848",
+        "size_in_bytes": 1098
+      },
+      {
+        "_path": "Lib/site-packages/entrypoints-0.4.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "952c55cf89ff4db06017f89650be1c91c93631b9289835a0f4c3e289e7acd267",
+        "sha256_in_prefix": "952c55cf89ff4db06017f89650be1c91c93631b9289835a0f4c3e289e7acd267",
+        "size_in_bytes": 2589
+      },
+      {
+        "_path": "Lib/site-packages/entrypoints-0.4.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "215f75721c78f40c36b501f77450e7d70a37ad583f5fcaa44783b817a4db94b0",
+        "sha256_in_prefix": "215f75721c78f40c36b501f77450e7d70a37ad583f5fcaa44783b817a4db94b0",
+        "size_in_bytes": 697
+      },
+      {
+        "_path": "Lib/site-packages/entrypoints-0.4.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/entrypoints-0.4.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "8cf311fc3ce47385f889c42d9b3f35967358fe402c7e883baf2eeaa11bd82d7c",
+        "sha256_in_prefix": "8cf311fc3ce47385f889c42d9b3f35967358fe402c7e883baf2eeaa11bd82d7c",
+        "size_in_bytes": 81
+      },
+      {
+        "_path": "Lib/site-packages/entrypoints-0.4.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "a90ae349e704699faddbe3d8cc943fa6bc5790dad50dbb615f363a039a5f489d",
+        "sha256_in_prefix": "a90ae349e704699faddbe3d8cc943fa6bc5790dad50dbb615f363a039a5f489d",
+        "size_in_bytes": 71
+      },
+      {
+        "_path": "Lib/site-packages/entrypoints.py",
+        "path_type": "hardlink",
+        "sha256": "1fde7c2c1985ae0201a14925bdc162a847f58d5d24c5520f10d34613541a51dd",
+        "sha256_in_prefix": "1fde7c2c1985ae0201a14925bdc162a847f58d5d24c5520f10d34613541a51dd",
+        "size_in_bytes": 8264
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "entrypoints",
+  "sha256": "f99453068f6caee5db07d85f14beb6102665a60bf95880dbfbcd7644432df846",
+  "size": 17233,
+  "subdir": "win-64",
+  "timestamp": 1649926672239,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/entrypoints-0.4-py38haa95532_0.conda",
+  "version": "0.4"
+}
