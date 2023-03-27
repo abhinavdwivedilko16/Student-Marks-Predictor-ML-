@@ -14,6 +14,6 @@ class CustomException(Exception):
     def __init__(self,error_message,error_detail:sys):
         super().__init__(error_message)       # we are inheriting from the exception so this super is used
         self.error_message=error_message_detail(error_message,error_detail=error_detail)       #here we are giving parameter for custom exception
-
+    
     def __str__(self):
         return self.error_message

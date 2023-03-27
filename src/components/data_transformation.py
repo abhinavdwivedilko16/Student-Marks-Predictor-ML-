@@ -17,7 +17,7 @@ from src.utils import save_object
 
 @dataclass         #this class will help to capture the inputs for transformation
 class DataTransformationConfig:
-    preprocessor_obj_file_path=os.path.join('artifacts',"proprocessor.pkl")
+    preprocessor_obj_file_path=os.path.join('artifacts',"preprocessor.pkl")
 
 class DataTransformation:
     def __init__(self):
